@@ -28,5 +28,7 @@ public class MainActivity extends Activity {
 		
 		cSlide = (CustomSlideAndList) findViewById(R.id.custom_slide_list);
 		cSlide.init(LATEST_URL);
+		
+		
 	}
 }

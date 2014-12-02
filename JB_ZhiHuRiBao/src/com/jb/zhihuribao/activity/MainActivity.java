@@ -30,5 +30,7 @@ public class MainActivity extends Activity {
 		cSlide.init(LATEST_URL);
 		
 		
+		
+		
 	}
 }
